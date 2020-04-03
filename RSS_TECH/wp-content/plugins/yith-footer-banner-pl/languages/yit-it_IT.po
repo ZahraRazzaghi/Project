@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Footer Banner v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-24 12:18+0100\n"
+"PO-Revision-Date: 2013-07-25 08:57:50+0000\n"
+"Last-Translator: Your Inspiration Themes <yithemes@yopmail.com>\n"
+"Language-Team: Your Inspiration Themes <support@yithemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: class.yith-fbanner-admin.php:1
+#@ yit
+msgid "YITH Footer Banner"
+msgstr "YITH Footer Banner"
+
+#: class.yith-fbanner-admin.php:1
+#@ yit
+msgid "Footer Banner"
+msgstr "Footer Banner"
+
+#: class.yith-fbanner-admin.php:1
+#@ yit
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: class.yith-fbanner-admin.php:1
+#@ yit
+msgid "Docs"
+msgstr "Documentazione"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "General"
+msgstr "Generale"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Enable Footer Banner"
+msgstr "Abilita il Footer Banner"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The message displayed. You can also use HTML code."
+msgstr "Il messaggio mostrato. Puoi anche utilizzare del codice HTML."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Insert here your custom CSS style."
+msgstr "Aggiungi qui il tuo stile CSS personalizzato."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Typography"
+msgstr "Tipografia"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Title font of message"
+msgstr "Font del titolo all'interno del messaggio"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose the font type, size and color for the titles inside the message text."
+msgstr "Scegli il font, la dimensione e il colore per i titoli dentro il testo del messaggio."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Paragraph font of message"
+msgstr "Font del paragrafo all'interno del messaggio"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose the font type, size and color for the paragraphs inside the message text."
+msgstr "Scegli il font, la dimensione e il colore per i paragrafi dentro il testo del messaggio."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Background"
+msgstr "Sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Background Settings"
+msgstr "Impostazioni sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Background image"
+msgstr "Immagine sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose a background color"
+msgstr "Scegli un colore di sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Background Repeat"
+msgstr "Ripetizione sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Select the repeat mode for the background image."
+msgstr "Seleziona la modalità di ripetizione per l'immagine di sfondo."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Repeat"
+msgstr "Ripeti"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Repeat Horizontally"
+msgstr "Ripeti orizontalmente"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Repeat Vertically"
+msgstr "Ripeti verticalmente"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "No Repeat"
+msgstr "Nessuna ripetizione"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Background Position"
+msgstr "Posizione sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Select the position for the background image."
+msgstr "Seleziona la posizione per l'immagine di sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Center"
+msgstr "Centra"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Top left"
+msgstr "In alto a sinistra"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Top center"
+msgstr "In alto al centro"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Top right"
+msgstr "In alto a destra"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Bottom left"
+msgstr "In basso a sinistra"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Bottom center"
+msgstr "In basso al centro"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Bottom right"
+msgstr "In basso a destra"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Background Attachment"
+msgstr "Ancorazione sfondo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Select the attachment for the background image."
+msgstr "Seleziona l'ancoraggio dell'immagine di sfondo."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Scroll"
+msgstr "Scorri"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Fixed"
+msgstr "Fissa"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Enable Newsletter form"
+msgstr "Abilita il form per la newsletter"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Newsletter Submit Font"
+msgstr "Font submit newsletter"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Newsletter submit background"
+msgstr "Sfondo pulsante invia newsletter"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The submit button background."
+msgstr "Sfondo del pulsante di invio."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Newsletter submit hover background"
+msgstr "Font effetto hover pulsante invia"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The submit button hover background."
+msgstr "Colore di sfondo per il pulsante di invio all'hover del mouse."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Title"
+msgstr "Titolo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Form configuration"
+msgstr "Configurazione form"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Configure the form and each field, to integrate the newsletter features of an external service."
+msgstr "Configura il form e ogni campo, per integrarlo con le caratteristiche di un servizio newsletter esterno."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Action URL"
+msgstr "URL Action"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Set the action url of the form."
+msgstr "Imposta l'url dell'attributo \"action\" del form."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Form method"
+msgstr "Metodo form"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Set the method for the form request."
+msgstr "Imposta il metodo con il quale il form invia la richiesta."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "\"Email\" field label"
+msgstr "Etichetta del campo \"Email\""
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The label for the email field"
+msgstr "Etichetta per il campo email"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "\"Email\" field name"
+msgstr "Attributo nome del campo \"Email\""
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The \"name\" attribute for the email field"
+msgstr "L'attributo \"name\" per il campo email"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Submit button label"
+msgstr "Etichetta del pulsante invia"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The label for the submit button"
+msgstr "Etichetta per il pulsante di invio"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Newsletter Hidden fields"
+msgstr "Campi nascosti newsletter"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Set the hidden fields to include in the form. Use the form: field1=value1&field2=value2&field3=value3"
+msgstr "Imposta i campi nascosti da includere nel form. Usa la struttura: field1=value1&field2=value2&field3=value3"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Select a date"
+msgstr "Seleziona una data"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Hours"
+msgstr "Ore"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Minutes"
+msgstr "Minuti"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Upload"
+msgstr "Carica"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "px"
+msgstr "px"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "em"
+msgstr "em"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "pt"
+msgstr "pt"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "rem"
+msgstr "rem"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Select a font family"
+msgstr "Seleziona la famiglia font"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Regular"
+msgstr "Normale"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Bold"
+msgstr "Grassetto"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Extra bold"
+msgstr "Extra bold"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Italic"
+msgstr "Corsivo"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Italic bold"
+msgstr "Grassetto corsivo"
+
+#: yit-common/yith-panel.php:1
+#@ yit
+msgid "Click to preview"
+msgstr "Clicca per anteprima"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Hide forever"
+msgstr "Nascondi sempre"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Hide"
+msgstr "Nascondi"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The title displayed. You can also use HTML code."
+msgstr "Il titolo mostrato. Puoi usare anche codice HTML."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Join our community"
+msgstr "Unisciti alla nostra community"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Subtitle"
+msgstr "Sottotitolo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Add a newsletter form in your footer banner."
+msgstr "Aggiunge un form per la newsletter al banner nel footer."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose if you want to enable the newsletter form in the footer banner."
+msgstr "Scegli se vuoi abilitare un form per newsletter nel footer banner."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Customize the background of footer banner"
+msgstr "Personalizza lo sfondo del footer banner"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Hide button"
+msgstr "Pulsante nascondi"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The text displayed as hiding button."
+msgstr "Il testo mostrato nel pulsante per nascondere il banner."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Hide forever button"
+msgstr "Pulsante nascondi sempre"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The text displayed as hide forever button."
+msgstr "Il testo mostrato nel pulsante nascondi sempre."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "If you want, you can set here a logo image to show on the left side."
+msgstr "Se vuoi puoi caricare qui un'immagine da mostrare sul lato sinistro."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Hiding buttons fonts"
+msgstr "Font utilizzati nei pulsanti per nascondere il banner"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose the font type, size and color for the footer banner hiding buttons."
+msgstr "Scegli il font, la dimensione ed il colore del testo per i pulsanti per nascondere il banner."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Customize the border"
+msgstr "Personalizza il bordo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose border's color."
+msgstr "Scegli il colore del bordo."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose the font type, size and color for the email submit button."
+msgstr "Scegli il font, la dimensione ed il colore del testo per i pulsanti per nascondere il banner."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "SUBSCRIBE"
+msgstr "ISCRIVITI"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Link"
+msgstr "Link"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Would you like to wrap logo, title and subtitle in a link? Write it here."
+msgstr "Vorresti racchiudere logo, titolo e sottotitolo in un link? Scrivi qui l'URL"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "http://yithemes.com/?ap_id=yith-fbanner"
+msgstr "http://yithemes.com/?ap_id=yith-fbanner"
+
+#. translators: plugin header field 'Name'
+#: init.php:0
+#@ yit
+msgid "YITH Footer Banner * Plugin URI: http://yithemes.com/ * Description: YITH Footer Banner allows you to add a banner in your footer and customize it. * Version: 1.0.0 * Author: Your Inspiration Themes * Author URI: http://yithemes.com/ * Text Domain: yit * Domain Path: /languages/ * * @author Your Inspiration Themes * @package YITH Footer Banner * @version 1.0.0"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: init.php:0
+#@ yit
+msgid "http://yithemes.com/ * Description: YITH Footer Banner allows you to add a banner in your footer and customize it. * Version: 1.0.0 * Author: Your Inspiration Themes * Author URI: http://yithemes.com/ * Text Domain: yit * Domain Path: /languages/ * * @author Your Inspiration Themes * @package YITH Footer Banner * @version 1.0.0"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: init.php:0
+#@ yit
+msgid "YITH Footer Banner allows you to add a banner in your footer and customize it. * Version: 1.0.0 * Author: Your Inspiration Themes * Author URI: http://yithemes.com/ * Text Domain: yit * Domain Path: /languages/ * * @author Your Inspiration Themes * @package YITH Footer Banner * @version 1.0.0"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: init.php:0
+#@ yit
+msgid "Your Inspiration Themes * Author URI: http://yithemes.com/ * Text Domain: yit * Domain Path: /languages/ * * @author Your Inspiration Themes * @package YITH Footer Banner * @version 1.0.0"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: init.php:0
+#@ yit
+msgid "http://yithemes.com/ * Text Domain: yit * Domain Path: /languages/ * * @author Your Inspiration Themes * @package YITH Footer Banner * @version 1.0.0"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: init.php:0
+#@ yit
+msgid "1.0.0 * Author: Your Inspiration Themes * Author URI: http://yithemes.com/ * Text Domain: yit * Domain Path: /languages/ * * @author Your Inspiration Themes * @package YITH Footer Banner * @version 1.0.0"
+msgstr ""
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Enable the footer banner. (Default: Off)"
+msgstr "Abilita il footer banner. (Default: Off)"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Simply insert your email address here to be notified"
+msgstr "Semplicemente inserisci il tuo indirizzo email per essere notificato"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Upload or choose from your media library the background image, if you don't need it anymore simply delete it."
+msgstr "Carica o scegli un'immagine dalla tua libreria media da usare come sfondo, se non ti dovesse servire pi&ugrave;, semplicemente eliminala."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Newsletter Name and Email Inputs Font"
+msgstr "Font campi nome ed email"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose the font type, size and color for the name and email inputs field."
+msgstr "Scegli il font, la dimensione ed il colore per i campi nome ed email."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "\"Name\" field label"
+msgstr "\"Nome\" etichetta campo"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "\"Name\" field name"
+msgstr "Etichetta campo \"Nome\\\"\\"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The \"name\" attribute for the name field"
+msgstr "L'attributo \"name\" per il campo nome"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "The label for the name field, if it is empty no name field will be printed"
+msgstr "L\\'etichetta per il campo nome, se vuota non sar&agrave; stampata quella parte del form"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Top Text"
+msgstr "Top Text"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Write here a text to be shown over the newsletter fields."
+msgstr "Il testo inserito qui sar&agrave; mostrato sopra i campi della newsletter."
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Top Text Font"
+msgstr "Font Top Text"
+
+#: yith-fbanner-options.php:1
+#@ yit
+msgid "Choose the font type, size and color for the text font."
+msgstr "Scegli il font, la dimensione ed il colore del testo per il Top Text."
+

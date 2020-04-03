@@ -1,0 +1,606 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Footer Banner\n"
+"POT-Creation-Date: 2016-01-09 12:13+0330\n"
+"PO-Revision-Date: 2016-01-10 10:02+0330\n"
+"Language-Team: Your Inspiration Themes <support@yithemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: fa\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# فارسی سازی توسط همیار وردپرس 
+# www.HAMYARWP.com
+#: ../class.yith-fbanner-admin.php:76
+msgid "YITH Footer Banner"
+msgstr " بنر در فوتر"
+
+#: ../class.yith-fbanner-admin.php:77
+msgid "Footer Banner"
+msgstr "بنر فوتر"
+
+#: ../class.yith-fbanner-admin.php:140
+msgid "Settings"
+msgstr "تنظیمات "
+
+#: ../class.yith-fbanner-admin.php:141
+msgid "Docs"
+msgstr "مستندات"
+
+#: ../class.yith-fbanner-frontend.php:70
+msgid "Footer Banner Active"
+msgstr "فعال سازی بنر در فوتر"
+
+#: ../yith-mm-options.php:16
+msgid "General"
+msgstr "اصلی"
+
+#: ../yith-mm-options.php:19
+msgid "General Settings"
+msgstr "تنظیمات اصلی"
+
+#: ../yith-mm-options.php:23
+msgid "Enable Footer Banner"
+msgstr "فعال کردن بنر فوتر"
+
+#: ../yith-mm-options.php:24
+msgid ""
+"Enable the splash page to lets users to know the blog is down for "
+"maintenance. (Default: Off) "
+msgstr ""
+"فعال سازی صفحه ای که به کاربران حالت در دست تعمیر را نمایش می دهد. (پیش فرض:"
+"خاموش)"
+
+#: ../yith-mm-options.php:30
+msgid "Roles"
+msgstr "نقش ها"
+
+#: ../yith-mm-options.php:31
+msgid ""
+"The user roles enabled to see the frontend. Check a role to enable it to "
+"show the website with maintenance mode active."
+msgstr ""
+"فعال کردن نقش کاربران برای دیدن تنظیمات افزونه.چک کردن نقش برای فعال کردن "
+"نمایش حالت در دست تعمیر در وبسایت."
+
+#: ../yith-mm-options.php:38
+msgid "HTTP Status Code"
+msgstr "پروتکل HTTP"
+
+#: ../yith-mm-options.php:39
+msgid ""
+"You can set to send the HTTP status code, to say the status of the page and "
+"can tell to Google that this page isn't ready yet and cause your site not to "
+"be listed until this plugin is disabled."
+msgstr ""
+"می توانید پروتکل HTTP را برای ارسال تنظیم کنید،در صورت که افزونه غیر فعال "
+"باشد به گوگل اعلام می شود که این صفحه هنوز آماده نیست."
+
+#: ../yith-mm-options.php:44
+msgid "Service Unavailable"
+msgstr "در دسترس نبودن خدمات"
+
+#: ../yith-mm-options.php:50
+msgid "Message"
+msgstr "پیام"
+
+#: ../yith-mm-options.php:51
+msgid "The message displayed. You can also use HTML code."
+msgstr "نمایش دادن پیام.شما می توانید از کد اچ تی ام ال استفاده کنید."
+
+#: ../yith-mm-options.php:53
+msgid "OPS! WE ARE NOT READY YET!"
+msgstr "اوه! ما هنوز آماده نیستیم!"
+
+#: ../yith-mm-options.php:54
+msgid ""
+"Hello there! We are not ready yet, but why don't you leave your email "
+"address  and we'll let you know  as soon as we're in business!"
+msgstr ""
+"سلام! ما هنوز آماده نیستیم،اما می توانید برای اطلاع یابی از اخبار ما ایمیل "
+"خود را وارد کنید!"
+
+#: ../yith-mm-options.php:59
+msgid "Insert here your custom CSS style."
+msgstr "وارد کردن تنظیمات سی اس اس دلخواه."
+
+#: ../yith-mm-options.php:66
+msgid ""
+"If you want, you can set here a mascotte image to show above the main box, "
+"in the right side."
+msgstr ""
+"اگر می خواهید تصویر دلخواه خود را در سربرگ وارد کنید می توانید از سمت راست "
+"تنظیم کنید."
+
+#: ../yith-mm-options.php:73
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: ../yith-mm-options.php:77
+msgid "Title font of message"
+msgstr "فونت عنوان پیام"
+
+#: ../yith-mm-options.php:78
+msgid ""
+"Choose the font type, size and color for the titles inside the message text."
+msgstr "انتخاب نوع فونت،اندازه و رنگ عنوان متن پیام."
+
+#: ../yith-mm-options.php:89
+msgid "Paragraph font of message"
+msgstr "فونت متن پاراگراف"
+
+#: ../yith-mm-options.php:90
+msgid ""
+"Choose the font type, size and color for the paragraphs inside the message "
+"text."
+msgstr "انتخاب نوع فونت، اندازه و رنگ پاراگراف متن پیام."
+
+#: ../yith-mm-options.php:103
+msgid "Colors"
+msgstr "رنگ"
+
+#: ../yith-mm-options.php:107
+msgid "Border top color"
+msgstr "رنگ خط بالای کادر"
+
+#: ../yith-mm-options.php:108
+msgid "Choose the color for the big border top of the main box."
+msgstr "انتخاب رنگ برای خط بزرگ بالای کادر اصلی."
+
+#: ../yith-mm-options.php:119
+msgid "Background"
+msgstr "پس زمینه"
+
+#: ../yith-mm-options.php:122
+msgid "Background Settings"
+msgstr "تنظیمات پس زمینه"
+
+#: ../yith-mm-options.php:123
+msgid "Customize the background of the page"
+msgstr "تنظیم دلخواه پس زمینه برای برگه"
+
+#: ../yith-mm-options.php:126
+msgid "Background image"
+msgstr "تصویر پس زمینه"
+
+#: ../yith-mm-options.php:127
+msgid "Upload or choose from your media library the background image"
+msgstr "بارگذاری یا انتخاب از کتابخانه چند رسانه ای تصویر پس زمینه."
+
+#: ../yith-mm-options.php:132
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: ../yith-mm-options.php:133
+msgid "Choose a background color"
+msgstr "انتخاب رنگ پس زمینه"
+
+#: ../yith-mm-options.php:138
+msgid "Background Repeat"
+msgstr "تکرار پس زمینه"
+
+#: ../yith-mm-options.php:139
+msgid "Select the repeat mode for the background image."
+msgstr "انتخاب حالت تکرار برای تصویر پس زمینه"
+
+#: ../yith-mm-options.php:143
+msgid "Repeat"
+msgstr "تکرار"
+
+#: ../yith-mm-options.php:144
+msgid "Repeat Horizontally"
+msgstr "تکرار افقی"
+
+#: ../yith-mm-options.php:145
+msgid "Repeat Vertically"
+msgstr "تکرار عمودی"
+
+#: ../yith-mm-options.php:146
+msgid "No Repeat"
+msgstr "بدون تکرار"
+
+#: ../yith-mm-options.php:150
+msgid "Background Position"
+msgstr "موقعیت پس زمینه"
+
+#: ../yith-mm-options.php:151
+msgid "Select the position for the background image."
+msgstr "انتخاب موقعیت برای تصویر پس زمینه"
+
+#: ../yith-mm-options.php:154
+msgid "Center"
+msgstr "وسط"
+
+#: ../yith-mm-options.php:155
+msgid "Top left"
+msgstr "بالا و چپ"
+
+#: ../yith-mm-options.php:156
+msgid "Top center"
+msgstr "بالا و وسط"
+
+#: ../yith-mm-options.php:157
+msgid "Top right"
+msgstr "بالا و راست"
+
+#: ../yith-mm-options.php:158
+msgid "Bottom left"
+msgstr "پایین و چپ"
+
+#: ../yith-mm-options.php:159
+msgid "Bottom center"
+msgstr "پایین و وسط"
+
+#: ../yith-mm-options.php:160
+msgid "Bottom right"
+msgstr "پایین و راست"
+
+#: ../yith-mm-options.php:165
+msgid "Background Attachment"
+msgstr "ضمیمه پس زمینه"
+
+#: ../yith-mm-options.php:166
+msgid "Select the attachment for the background image."
+msgstr "انتخاب تصویر پس زمینه ضمیمه شده"
+
+#: ../yith-mm-options.php:169
+msgid "Scroll"
+msgstr "اسکرول"
+
+#: ../yith-mm-options.php:170
+msgid "Fixed"
+msgstr "کامل"
+
+#: ../yith-mm-options.php:181
+msgid "Logo"
+msgstr "لوگو"
+
+#: ../yith-mm-options.php:184
+msgid "Logo Settings"
+msgstr "تنظیمات لوگو"
+
+#: ../yith-mm-options.php:185
+msgid "Customize the logo"
+msgstr "سفارشی سازی لوگو"
+
+#: ../yith-mm-options.php:188
+msgid "Logo image"
+msgstr "تصویر لوگو"
+
+#: ../yith-mm-options.php:189
+msgid "Upload or choose from your media library the logo image"
+msgstr "بارگذاری یا انتخاب تصویر لوگو از کتابخانه ی چند رسانه ای "
+
+#: ../yith-mm-options.php:194
+msgid "Logo tagline"
+msgstr "برچسب لوگو"
+
+#: ../yith-mm-options.php:195
+msgid "Set the tagline to show below the logo image"
+msgstr "تنظیم برچسب لوگو پایین تصویر لوگو"
+
+#: ../yith-mm-options.php:200
+msgid "Logo tagline font"
+msgstr "فونت برچسب لوگو"
+
+#: ../yith-mm-options.php:201
+msgid "Choose the font type, size and color for the tagline text."
+msgstr "انتخاب نوع فونت، اندازه و رنگ برای برچسب لوگو"
+
+#: ../yith-mm-options.php:218 ../yith-mm-options.php:221
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+#: ../yith-mm-options.php:222
+msgid "Add a newsletter form in your maintenance mode page."
+msgstr "افزودن فرم خبرنامه در برگه ی در دست تعمیر"
+
+#: ../yith-mm-options.php:225
+msgid "Enable Newsletter form"
+msgstr "فعال کردن فرم خبرنامه"
+
+#: ../yith-mm-options.php:226
+msgid ""
+"Choose if you want to enable the newsletter form in the maintenance mode "
+"page."
+msgstr ""
+"در صورتی که می خواهید فرم خبرنامه را برای خالت نگهداری فعال کنید می توانید "
+"از این بخش انجام دهید."
+
+#: ../yith-mm-options.php:231
+msgid "Newsletter Email Font"
+msgstr "فونت ایمیل خبرنامه"
+
+#: ../yith-mm-options.php:232
+msgid "Choose the font type, size and color for the email input field."
+msgstr "انتخاب نوع فونت، اندازه و رنگ برای فیلد داخلی ایمیل"
+
+#: ../yith-mm-options.php:243
+msgid "Newsletter Submit Font"
+msgstr "فونت پذیرفتن خبرنامه"
+
+#: ../yith-mm-options.php:244
+msgid "Choose the font type, size and color for the email submit."
+msgstr "انتخاب نوع فونت، اندازه و رنگ پذیرفتن ایمیل"
+
+#: ../yith-mm-options.php:255
+msgid "Newsletter submit background"
+msgstr "پس زمینه پذیرفتن در خبرنامه"
+
+#: ../yith-mm-options.php:256
+msgid "The submit button background."
+msgstr "پس زمینه ی دکمه پذیرفتن "
+
+#: ../yith-mm-options.php:261
+msgid "Newsletter submit hover background"
+msgstr "پس زمینه ی پذیرفتن در خبرنامه در هنگام نگه داشتن موس "
+
+#: ../yith-mm-options.php:262
+msgid "The submit button hover background."
+msgstr "پس زمینه ی دکمه پذیرفتن در هنگام نگه داشتن موس "
+
+#: ../yith-mm-options.php:267
+msgid "Title"
+msgstr "عنوان"
+
+#: ../yith-mm-options.php:268
+msgid "The title displayed above the newsletter form."
+msgstr "نمایش عنوان در بالای فرم خبرنامه"
+
+#: ../yith-mm-options.php:275
+msgid "Form configuration"
+msgstr "پیکره بندی فرم"
+
+#: ../yith-mm-options.php:276
+msgid ""
+"Configure the form and each field, to integrate the newsletter features of "
+"an external service."
+msgstr "پیکره بندی فرم و هر فیلدی،ادغام خصوصیات خبرنامه در خدمات خارجی"
+
+#: ../yith-mm-options.php:279
+msgid "Action URL"
+msgstr "آدرس فرم"
+
+#: ../yith-mm-options.php:280
+msgid "Set the action url of the form."
+msgstr "تنظیم آدرس در فرم "
+
+#: ../yith-mm-options.php:285
+msgid "Form method"
+msgstr "حالت فرم "
+
+#: ../yith-mm-options.php:286
+msgid "Set the method for the form request."
+msgstr "تنظیم حالت فرم برای ارسال درخواست"
+
+#: ../yith-mm-options.php:295
+msgid "\"Email\" field label"
+msgstr "برپسب فیلد \"ایمیل\""
+
+#: ../yith-mm-options.php:296
+msgid "The label for the email field"
+msgstr "برچسب برای فیلد ایمیل"
+
+#: ../yith-mm-options.php:301
+msgid "\"Email\" field name"
+msgstr "نام فیلد \"ایمیل\""
+
+#: ../yith-mm-options.php:302
+msgid "The \"name\" attribute for the email field"
+msgstr "صفت \"نام\" برای فیلد ایمیل"
+
+#: ../yith-mm-options.php:307
+msgid "Submit button label"
+msgstr "برچسب دکمه ی ارسال"
+
+#: ../yith-mm-options.php:308
+msgid "The label for the submit button"
+msgstr "برچسب برای دکمه ی ارسال"
+
+#: ../yith-mm-options.php:310
+msgid "GET NOTIFY"
+msgstr "به من اطلاع بده"
+
+#: ../yith-mm-options.php:313
+msgid "Newsletter Hidden fields"
+msgstr "فیلدهای مخفی خبرنامه"
+
+#: ../yith-mm-options.php:314
+msgid ""
+"Set the hidden fields to include in the form. Use the form: "
+"field1=value1&field2=value2&field3=value3"
+msgstr "تنظیم فیلدهای مخفی خبرنامه:  field1=value1&field2=value2&field3=value3"
+
+#: ../yith-mm-options.php:325
+msgid "Socials"
+msgstr "شبکه های اجتماعی"
+
+#: ../yith-mm-options.php:328
+msgid "Set the socials"
+msgstr "تنظیم شبکه های اجتماعی"
+
+#: ../yith-mm-options.php:329
+msgid ""
+"You can set here the url of your social accounts (you can leave empty if you "
+"don't want to show the social icon)"
+msgstr ""
+"می توانید در اینجا آدرس شبکه های اجتماعی مورد نظر را وارد کنید و در صورتی که "
+"از هر کدام استفاده نمی کنید آن را خالی بگذارید."
+
+#: ../yith-mm-options.php:332
+msgid "Facebook"
+msgstr "فیس بوک"
+
+#: ../yith-mm-options.php:333
+msgid "Set the URL of your facebook profile"
+msgstr "تنظیم آدرس پروفایل فیسبوک"
+
+#: ../yith-mm-options.php:338
+msgid "Twitter"
+msgstr "توییتر"
+
+#: ../yith-mm-options.php:339
+msgid "Set the URL of your twitter profile"
+msgstr "تنظیم آدرس پروفایل توییتر"
+
+#: ../yith-mm-options.php:344
+msgid "Google+"
+msgstr "گوگل پلاس"
+
+#: ../yith-mm-options.php:345
+msgid "Set the URL of your Google+ profile"
+msgstr "تنظیم آدرس پروفایل گوگل پلاس"
+
+#: ../yith-mm-options.php:350
+msgid "Youtube"
+msgstr "یوتیوب"
+
+#: ../yith-mm-options.php:351
+msgid "Set the URL of your youtube profile"
+msgstr "تنظیم آدرس پروفایل یوتیوب"
+
+#: ../yith-mm-options.php:356
+msgid "RSS"
+msgstr "آر اس اس"
+
+#: ../yith-mm-options.php:357
+msgid "Set the URL of your RSS feed"
+msgstr "تنظیم آدرس خوراک آر اس اس"
+
+#: ../yith-mm-options.php:362
+msgid "Skype"
+msgstr "اسکایپ"
+
+#: ../yith-mm-options.php:363
+msgid "Set the username of your skype account"
+msgstr "تنظیم آدرس اکانت کاربری اسکایپ"
+
+#: ../yith-mm-options.php:368
+msgid "Email"
+msgstr "ایمیل"
+
+#: ../yith-mm-options.php:369
+msgid "Write here your email address"
+msgstr "وارد کردن آدرس ایمیل"
+
+#: ../yith-mm-options.php:374
+msgid "Behance"
+msgstr "بیهنس"
+
+#: ../yith-mm-options.php:375
+msgid "Set the URL of your Behance profile"
+msgstr "تنظیم آدرس پروفایل بیهنس"
+
+#: ../yith-mm-options.php:380
+msgid "Dribble"
+msgstr "دریبل"
+
+#: ../yith-mm-options.php:381
+msgid "Set the URL of your dribble profile"
+msgstr "تنظیم آدرس پروفایل دریبل"
+
+#: ../yith-mm-options.php:386
+msgid "FlickR"
+msgstr "فلیکر"
+
+#: ../yith-mm-options.php:387
+msgid "Set the URL of your Flickr profile"
+msgstr "تنظیم آدرس پروفایل فلیکر"
+
+#: ../yith-mm-options.php:392
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: ../yith-mm-options.php:393
+msgid "Set the URL of your instagram profile"
+msgstr "تنظیم آدرس پروفایل اینستاگرام"
+
+#: ../yith-mm-options.php:398
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: ../yith-mm-options.php:399
+msgid "Set the URL of your Pinterest profile"
+msgstr "تنظیم آدرس پروفایل پینترست"
+
+#: ../yith-mm-options.php:404
+msgid "Tumblr"
+msgstr "تامبلر"
+
+#: ../yith-mm-options.php:405
+msgid "Set the URL of your Tumblr profile"
+msgstr "تنظیم آدرس پروفایل تامبلر"
+
+#: ../yith-mm-options.php:410
+msgid "LinkedIn"
+msgstr "لینکداین"
+
+#: ../yith-mm-options.php:411
+msgid "Set the URL of your LinkedIn profile"
+msgstr "تنظیم آدرس پروفایل لینکداین"
+
+#: ../yit-common/yith-panel.php:396
+msgid "Select a date"
+msgstr "انتخاب تاریخ"
+
+#: ../yit-common/yith-panel.php:397
+msgid "Hours"
+msgstr "ساعت"
+
+#: ../yit-common/yith-panel.php:398 ../yit-common/yith-panel.php:399
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: ../yit-common/yith-panel.php:407
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: ../yit-common/yith-panel.php:434
+msgid "px"
+msgstr "px"
+
+#: ../yit-common/yith-panel.php:435
+msgid "em"
+msgstr "em"
+
+#: ../yit-common/yith-panel.php:436
+msgid "pt"
+msgstr "pt"
+
+#: ../yit-common/yith-panel.php:437
+msgid "rem"
+msgstr "rem"
+
+#: ../yit-common/yith-panel.php:447
+msgid "Select a font family"
+msgstr "انتخاب خانواده ی فونت "
+
+#: ../yit-common/yith-panel.php:455
+msgid "Regular"
+msgstr "Regular"
+
+#: ../yit-common/yith-panel.php:456
+msgid "Bold"
+msgstr "Bold"
+
+#: ../yit-common/yith-panel.php:457
+msgid "Extra bold"
+msgstr "Extra bold"
+
+#: ../yit-common/yith-panel.php:458
+msgid "Italic"
+msgstr "Italic"
+
+#: ../yit-common/yith-panel.php:459
+msgid "Italic bold"
+msgstr "Italic bold"
+
+#: ../yit-common/yith-panel.php:471
+msgid "Click to preview"
+msgstr "پیش نمایش تغییرات "

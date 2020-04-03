@@ -1,0 +1,769 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-10-17 17:02+0000\n"
+"POT-Revision-Date: Thu Jul 28 2016 00:26:39 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "error"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:42 comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:45 comments.php:66
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46 comments.php:67
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:23 inc/admin/assets/panels/design-panel.php:313
+msgid "2016 editorial"
+msgstr ""
+
+#: footer.php:27
+msgid "Editorial by %1$s."
+msgstr ""
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:63
+msgid "Top Header Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Footer Menu"
+msgstr ""
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/editorial-functions.php:26 inc/widgets/editorial-widget-fields.php:153
+msgid "Upload"
+msgstr ""
+
+#: inc/editorial-functions.php:27 inc/widgets/editorial-widget-fields.php:155 
+#: inc/widgets/editorial-widget-fields.php:164
+msgid "Remove"
+msgstr ""
+
+#: inc/editorial-functions.php:97 inc/admin/assets/panels/header-panel.php:175
+msgid "Latest"
+msgstr ""
+
+#: inc/editorial-functions.php:137
+msgid "Select Category"
+msgstr ""
+
+#: inc/editorial-functions.php:144
+msgid "Select No.of Column"
+msgstr ""
+
+#: inc/editorial-functions.php:145
+msgid "2 Columns"
+msgstr ""
+
+#: inc/editorial-functions.php:146
+msgid "3 Columns"
+msgstr ""
+
+#: inc/editorial-functions.php:147
+msgid "4 Columns"
+msgstr ""
+
+#: inc/editorial-functions.php:466 inc/admin/assets/panels/design-panel.php:190
+msgid "Related Articles"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Comment(0)"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Comment(1)"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Comments(%)"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:74 template-parts/content-page.php:35
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content-single.php:37
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Magazine Page"
+msgstr ""
+
+#: inc/widgets/editorial-ads-banner.php:26
+msgid "You can place banner as advertisement with links."
+msgstr ""
+
+#: inc/widgets/editorial-ads-banner.php:28
+msgid "Editorial: Ads Banner"
+msgstr ""
+
+#: inc/widgets/editorial-ads-banner.php:38
+msgid "Leaderboard (728x90)"
+msgstr ""
+
+#: inc/widgets/editorial-ads-banner.php:39
+msgid "Large (300x250)"
+msgstr ""
+
+#: inc/widgets/editorial-ads-banner.php:45
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/editorial-ads-banner.php:51
+msgid "Ads Size"
+msgstr ""
+
+#: inc/widgets/editorial-ads-banner.php:59
+msgid "Add Image"
+msgstr ""
+
+#: inc/widgets/editorial-ads-banner.php:65
+msgid "Add Url"
+msgstr ""
+
+#: inc/widgets/editorial-block-column.php:26
+msgid "Display block posts as Column layout."
+msgstr ""
+
+#: inc/widgets/editorial-block-column.php:28
+msgid "Editorial: Block Posts (Column)"
+msgstr ""
+
+#: inc/widgets/editorial-block-column.php:43 
+#: inc/widgets/editorial-block-grid.php:43 
+#: inc/widgets/editorial-block-layout.php:42 
+#: inc/widgets/editorial-block-list.php:42
+msgid "Block Title"
+msgstr ""
+
+#: inc/widgets/editorial-block-column.php:49 
+#: inc/widgets/editorial-block-grid.php:49
+msgid "Category for Block Post"
+msgstr ""
+
+#: inc/widgets/editorial-block-column.php:57 
+#: inc/widgets/editorial-block-grid.php:65 
+#: inc/widgets/editorial-block-layout.php:57 
+#: inc/widgets/editorial-block-list.php:56 
+#: inc/widgets/editorial-posts-list.php:52
+msgid "No. of Posts"
+msgstr ""
+
+#: inc/widgets/editorial-block-grid.php:26
+msgid "Display block posts in grid layout."
+msgstr ""
+
+#: inc/widgets/editorial-block-grid.php:28
+msgid "Editorial: Block Posts (Grid)"
+msgstr ""
+
+#: inc/widgets/editorial-block-grid.php:57
+msgid "No. of Column"
+msgstr ""
+
+#: inc/widgets/editorial-block-layout.php:26
+msgid "Display posts in block layout"
+msgstr ""
+
+#: inc/widgets/editorial-block-layout.php:28
+msgid "Editorial: Block Layout"
+msgstr ""
+
+#: inc/widgets/editorial-block-layout.php:48 
+#: inc/widgets/editorial-block-list.php:48
+msgid "Category for Block Layout"
+msgstr ""
+
+#: inc/widgets/editorial-block-list.php:26
+msgid "Display posts in block list layout"
+msgstr ""
+
+#: inc/widgets/editorial-block-list.php:28
+msgid "Editorial: Block Posts (List)"
+msgstr ""
+
+#: inc/widgets/editorial-featured-slider.php:26
+msgid "Display slider with featured posts."
+msgstr ""
+
+#: inc/widgets/editorial-featured-slider.php:28
+msgid "Editorial: Featured Slider"
+msgstr ""
+
+#: inc/widgets/editorial-featured-slider.php:43
+msgid "Slider Section"
+msgstr ""
+
+#: inc/widgets/editorial-featured-slider.php:49
+msgid "Category for Slider"
+msgstr ""
+
+#: inc/widgets/editorial-featured-slider.php:57
+msgid "No of slides"
+msgstr ""
+
+#: inc/widgets/editorial-featured-slider.php:64
+msgid "Featured Posts Section"
+msgstr ""
+
+#: inc/widgets/editorial-featured-slider.php:70
+msgid "Category for Featured Posts"
+msgstr ""
+
+#: inc/widgets/editorial-posts-list.php:26
+msgid "Display latest or random posts in list view."
+msgstr ""
+
+#: inc/widgets/editorial-posts-list.php:28
+msgid "Editorial: Posts Lists"
+msgstr ""
+
+#: inc/widgets/editorial-posts-list.php:38
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/editorial-posts-list.php:39
+msgid "Random Posts"
+msgstr ""
+
+#: inc/widgets/editorial-posts-list.php:46
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/editorial-posts-list.php:59
+msgid "Posts Type"
+msgstr ""
+
+#: inc/widgets/editorial-widget-fields.php:150
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/editorial-widget-fields.php:158
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/editorial-widget-fields.php:167
+msgid "Upload image"
+msgstr ""
+
+#: inc/widgets/editorial-widget-fields.php:178
+msgid "View File"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:13
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:23 
+#: inc/admin/assets/metaboxes/editorial-post-metabox.php:47
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:33
+msgid "Header Ads"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:43
+msgid "HomePage Slider Area"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:53
+msgid "HomePage Content Area"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:63
+msgid "HomePage Sidebar"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:73
+msgid "Footer 1st Column"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:83
+msgid "Footer 2nd Column"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:93
+msgid "Footer 3rd Column"
+msgstr ""
+
+#: inc/widgets/editorial-widgets-area.php:103
+msgid "Footer 4th Column"
+msgstr ""
+
+#: inc/admin/assets/editorial-custom-classes.php:23
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:33
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:34 
+#: inc/admin/assets/panels/general-panel.php:88
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:46 
+#: inc/admin/assets/panels/design-panel.php:179 
+#: inc/admin/assets/panels/header-panel.php:59 
+#: inc/admin/assets/panels/header-panel.php:86 
+#: inc/admin/assets/panels/header-panel.php:124 
+#: inc/admin/assets/panels/header-panel.php:164
+msgid "Enable"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:47 
+#: inc/admin/assets/panels/design-panel.php:180 
+#: inc/admin/assets/panels/header-panel.php:60 
+#: inc/admin/assets/panels/header-panel.php:87 
+#: inc/admin/assets/panels/header-panel.php:125 
+#: inc/admin/assets/panels/header-panel.php:165
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:59 
+#: inc/admin/assets/panels/design-panel.php:153
+msgid "Show"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:60 
+#: inc/admin/assets/panels/design-panel.php:154
+msgid "Hide"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:72 
+#: inc/admin/assets/panels/design-panel.php:85
+msgid "Classic Layout"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:73 
+#: inc/admin/assets/panels/design-panel.php:86
+msgid "Columns Layout"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:100 
+#: inc/admin/assets/panels/design-panel.php:301
+msgid "One Column"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:101 
+#: inc/admin/assets/panels/design-panel.php:302
+msgid "Two Columns"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:102 
+#: inc/admin/assets/panels/design-panel.php:303
+msgid "Three Columns"
+msgstr ""
+
+#: inc/admin/assets/editorial-sanitize.php:103 
+#: inc/admin/assets/panels/design-panel.php:304
+msgid "Four Columns"
+msgstr ""
+
+#: inc/admin/assets/metaboxes/editorial-post-metabox.php:14 
+#: inc/admin/assets/metaboxes/editorial-post-metabox.php:22
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/admin/assets/metaboxes/editorial-post-metabox.php:37
+msgid "Default Layout"
+msgstr ""
+
+#: inc/admin/assets/metaboxes/editorial-post-metabox.php:42
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/admin/assets/metaboxes/editorial-post-metabox.php:52
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/admin/assets/metaboxes/editorial-post-metabox.php:57
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:23
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:31
+msgid "Categories Color"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:57
+msgid " %s"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:70
+msgid "Social Media"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:91
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:92
+msgid "Your Facebook Account URL"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:112
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:113
+msgid "Your Twitter Account URL"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:133
+msgid "Google Plus"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:134
+msgid "Your Google Plus Account URL"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:154
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:155
+msgid "Your LinkedIn Account URL"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:175
+msgid "YouTube"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:176
+msgid "Your YouTube Account URL"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:196
+msgid "Vimeo"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:197
+msgid "Your Vimeo Account URL"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:217
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:218
+msgid "Your Pinterest Account URL"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:238
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin/assets/panels/additional-panel.php:239
+msgid "Your Instagram Account URL"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:23
+msgid "Design Settings"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:34
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:55 
+#: inc/admin/assets/panels/design-panel.php:120 
+#: inc/admin/assets/panels/design-panel.php:258
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:56
+msgid "Select sidebar for whole site archives, categories, search page etc."
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:81
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:82
+msgid "Choose available layout for all archive pages."
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:99
+msgid "Post Settings"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:121
+msgid "Select sidebar for whole single post page."
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:148
+msgid "Author Option"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:149
+msgid "Enable/disable author information at single post page."
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:174
+msgid "Related Articles Option"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:175
+msgid "Enable/disable related articles section at single post page."
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:200
+msgid "Section Title"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:219
+msgid "Types of Related Articles"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:220
+msgid "Option to display related articles from category/tags."
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:223
+msgid "by Category"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:224
+msgid "by Tags"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:237
+msgid "Page Settings"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:259
+msgid "Select sidebar for whole single page."
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:279
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:297
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:298
+msgid "Choose option to display number of columns in footer area."
+msgstr ""
+
+#: inc/admin/assets/panels/design-panel.php:323
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/admin/assets/panels/general-panel.php:32
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/assets/panels/general-panel.php:50
+msgid "Theme color"
+msgstr ""
+
+#: inc/admin/assets/panels/general-panel.php:65
+msgid "Website Layout"
+msgstr ""
+
+#: inc/admin/assets/panels/general-panel.php:66
+msgid "Choose site layout which shows your website more effective."
+msgstr ""
+
+#: inc/admin/assets/panels/general-panel.php:84
+msgid "Site Layout"
+msgstr ""
+
+#: inc/admin/assets/panels/general-panel.php:87
+msgid "FullWidth Layout"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:23
+msgid "Header Settings"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:33
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:54
+msgid "Current Date Option"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:55
+msgid "Enable/disable current date from top header."
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:81
+msgid "Social Icon Option"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:82
+msgid "Enable/disable social icons from top header (right)."
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:99
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:119
+msgid "Menu Sticky"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:120
+msgid "Enable/disable option for Menu Sticky"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:138
+msgid "News Ticker Section"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:159
+msgid "News Ticker Option"
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:160
+msgid "Enable/disable news ticker at header."
+msgstr ""
+
+#: inc/admin/assets/panels/header-panel.php:185
+msgid "News Ticker Caption"
+msgstr ""
+
+#. Name of the theme
+msgid "Editorial"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Editorial is a ultimate responsive magazine style Free WordPress theme. "
+"Suitable for online magazines, newspaper, publishing, personal blogs and any "
+"kind of sites. It is completely built on Customizer which allows you to "
+"customize most of the theme settings easily with live previews. It is fully "
+"widgetized theme so as to let users manage the website using the easy to use "
+"widgets. It is a flexible and powerful theme, which provides a lot of "
+"customization possibilities to the users. Get free support at https:"
+"//mysterythemes.com/support/forum/themes/free-themes/ and check the demo at "
+"http://demo.mysterythemes.com/editorial/"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://mysterythemes.com/wp-themes/editorial/"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com/"
+msgstr ""
